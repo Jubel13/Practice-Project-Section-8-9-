@@ -1,6 +1,6 @@
 # Project Description
 
-# React-Practice-Project
+## React-Practice-Project
 
 This is practice project from udemy course: <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a>  by Maximilian Schwarxmuller
 
